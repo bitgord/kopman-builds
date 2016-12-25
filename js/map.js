@@ -33,7 +33,7 @@
                         var marker = new google.maps.Marker({
                             position: myLatlng,
                             map: map,
-							icon: 'img/marker.png',
+							icon: 'img/marker2.png',
                             title: 'Toronto, Ontario'
                         });
 						
